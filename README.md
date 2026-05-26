@@ -1,11 +1,11 @@
 ## Hi there, I'm Hasara Perera👋
 
-Mechatronics Engineer | Automation Enthsiast | Problem solver
+Mechatronics Engineer | Automation Enthusiast | Problem solver
 
 I bridge the gap between mechanical design, electronics and software automation. Currently im focusing on mastering autonomous systems, streamlining industrial workflows, and leveraging code to optimise business and production operations.
 
 
-What I'm Up To:
+### What I'm Up To:
 Robotics: Deep diving into ROS 2 to build and simulate complex autonomous systems
 Software & automation: Developing python scripts (inspired by harvard's CS50P) to automate real-world business logic data calculations and production tasks.
 Industrial Impact: Applying engineering principles to optimise processes and drive efficiency in manufacturing environments.
